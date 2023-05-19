@@ -57,13 +57,13 @@ public class Main {
         doubleQuotient = doubleOperandA / doubleOperandB; // Assignment that uses the arithmetic operator /
         System.out.println("The quotient using doubles of " + doubleOperandA + " and " + doubleOperandB + " is " + doubleQuotient); // Output Statement
 
-        int kidsInMyFamily = 2;
-        String isRaining = "Yes";
-        double priceOfGas = 3.55;
-        int myFavoriteNumber = 7;
-        int myShoeSize = 15;
-        int myBirthMonth = 5;
-        String myFullName = "Andrew Thomas Pipo";
+        int kidsInMyFamily = 2; // the number of kids in your family
+        String isRaining = "Yes"; // the answer to is it raining?
+        double priceOfGas = 3.55; // the price of a gallon of gas
+        int myFavoriteNumber = 7; // your favorite number
+        int myShoeSize = 15; // your shoe size
+        int myBirthMonth = 5; // your birth month
+        String myFullName = "Andrew Thomas Pipo"; // your full name
 
 
     }
